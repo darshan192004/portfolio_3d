@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://darshan192004.github.io/portfolio_3d/",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
     "deploy": "gh-pages -d dist",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "homepage": "https://darshan192004.github.io/portfolio_3d/"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
